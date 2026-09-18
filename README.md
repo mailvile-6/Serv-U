@@ -224,4 +224,4 @@ Serv-U is provided as a full free version with all features and updates included
 Get started with Serv-U today and take control of your file sharing in a secure and efficient way!
 
 ---
-**Last updated:** 2026-09-17 23:56:28 UTC
+**Last updated:** 2026-09-18 03:53:42 UTC
